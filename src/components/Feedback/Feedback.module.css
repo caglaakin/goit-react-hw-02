@@ -1,0 +1,17 @@
+.feedback{
+    padding: 20px;
+}
+
+.feedback ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.feedback li {
+    text-align: left;
+}
+
+.feedback p {
+    text-align: left;
+}

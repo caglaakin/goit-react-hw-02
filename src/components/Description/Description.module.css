@@ -1,0 +1,9 @@
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.description h1{
+    text-align: left;
+    margin: 15px 0;
+}
